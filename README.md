@@ -5,7 +5,7 @@ Bem vindos ao novo quiz lançado no Brasil! o Panda Quiz!
 ### História
 
 Originalmente, ele era pra ser um bloco de notas, mas o dono (que claramente não sou eu) desistiu e deu origem a um quiz chamado Sekai Quiz (セカイクイズ/Sekai kuizu)
-- Sekai Quiz virou uma lost media, por que não é encontrado.
+ Sekai Quiz virou uma lost media, por que não é encontrado.
 - Data de lançamento: 2004
 - Data quando não foi mais encontrado: 2009
 
