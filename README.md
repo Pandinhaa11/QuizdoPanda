@@ -25,3 +25,5 @@ Tenha diversão!
 1.1 beta
 
 <a href="https://github.com/Pandinhaa11/QuizdoPanda/releases/tag/1a">fazer o download</a>
+
+<h6> Github Pages / Jekyllrb 2024
