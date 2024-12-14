@@ -22,12 +22,12 @@ none
 ### Versão "alpha"
 none
 ### Versão postada mais recente
-1.0 beta codename 1a
+1.1 beta NO UI
 
 Tenha diversão!
 
 ### Próxima versão (com interface)
-1.1 beta
+1.2 beta
 
 <a href="https://github.com/Pandinhaa11/QuizdoPanda/releases/tag/1a">fazer o download</a>
 
