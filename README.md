@@ -1,3 +1,8 @@
+### Nota
+
+Teremos atualização? Sim!!! :D
+Sem spoilers, mas isso será legal.
+
 ### PandaQuiz
  
 Bem vindos ao novo quiz lançado no Brasil! o Panda Quiz!
